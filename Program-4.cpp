@@ -1,5 +1,3 @@
-git add .
-git commit -m "Added Program 2 and Program 3"
 #include <bits/stdc++.h>
 using namespace std;
 
